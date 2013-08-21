@@ -1,8 +1,8 @@
 molefusion
 ==========
 
-Small game done in python with pygame
+Small game done in python with pygame in 2005
 
 It uses Perlin noise library from Casey Duncan https://github.com/caseman/noise
 
-Music done by Rafael Tourón http://www.pixwoll.com/
+Music done by Rafael Tourï¿½n http://www.pixwoll.com/
