@@ -1,17 +1,14 @@
-import sys
 import os
 
-sys.path.append("modules")
-
-from LanguageMenu import LanguageMenu
-from MainMenu import MainMenu
+from modules.LanguageMenu import LanguageMenu
+from modules.MainMenu import MainMenu
 
 import pygame
 from pygame.locals import *
 
 from xml.sax import make_parser
-from Configuration import *
-from Constants import Constants
+from modules.Configuration import *
+from modules.Constants import Constants
 
 if __name__=="__main__":
 

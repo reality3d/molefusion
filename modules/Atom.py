@@ -62,7 +62,8 @@ class Atom(pygame.sprite.Sprite):
 		self.time1 =0.0
 		self.angle = 0.0
 		self.acum = [0.0,0.0] #Since screen space is integer
-		self.noise = Perlin.PerlinNoise((16,),Perlin.ease_interpolation)
+		self.noise = Perlin.SimplexNoise();
+		
 		self.mass = 0.25
 		
 		self.state="normal"
@@ -135,7 +136,7 @@ class Atom(pygame.sprite.Sprite):
 		
 		self.dt =float(self.time_speed.tick()/1000.0)
 		self.time +=self.dt
-		self.velocity = [self.noise.value_at(((self.time+self.randomphase[0])/16.0,)),self.noise.value_at(((self.time+self.randomphase[1])/16.0,))]
+		self.velocity = [self.noise.noise2((self.time+self.randomphase[0])/16.0,1.0), self.noise.noise2((self.time + self.randomphase[1])/16.0,1.0)]
 		self.velocity_modulus = sqrt(self.velocity[0]*self.velocity[0]+self.velocity[1]*self.velocity[1])
 		self.velocity = [self.velocityfactor*self.velocity[0]/self.velocity_modulus,self.velocityfactor*self.velocity[1]/self.velocity_modulus]
 		self.angle = -degrees(atan2(self.velocity[1],self.velocity[0]))
