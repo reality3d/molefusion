@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<language lan="es">
+<menu>
+	<option id="title" value="Puntuaciones MoleFusion"/>
+	<option id="name" value="Nombre"/>
+	<option id="points" value="Puntuación"/>
+	<option id="returnMain" value="Volver al Menu Principal"/>		
+</menu>
+</language>

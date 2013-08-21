@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<language lan="es">
+<menu>
+	<option id="title" value="...........|Créditos|..........."/>
+	<option id="game" value="Juego creado por Borja Morales..r3D"/>
+	<option id="music" value="Música creada por Rafael Tourón..Jewoll"/>	
+	<option id="web" value="Web:http://www.rgba.org/r3d/"/>	
+</menu>
+</language>

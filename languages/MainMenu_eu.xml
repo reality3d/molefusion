@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<language lan="eu">
+<menu>
+	<option id="title" value="MoleFusion Menu Nagusia"/>
+	<option id="start" value="Hasi"/>
+	<option id="options" value="Aukerak"/>
+	<option id="highscores" value="Puntuazioak"/>
+	<option id="help" value="Laguntza"/>	
+	<option id="quit" value="Utzi"/>	
+</menu>
+</language>

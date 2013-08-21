@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<language lan="eu">
+<menu>
+	<option id="title" value="MoleFusion Aukera Menua"/>
+	<option id="name" value="Jokalari Izena"/>	
+	<option id="language" value="Aldatu Hizkuntza"/>
+	<option id="returnMain" value="Menu Nagusira bueltatu"/>	
+</menu>
+</language>

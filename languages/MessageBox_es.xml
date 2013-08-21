@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<language lan="es">
+<messagebox>
+	<option id="level" value="nivel"/>
+	<option id="finish" value="nivel completado"/>
+	<option id="points" value="puntos por tiempo"/>
+	<option id="over" value="game over"/>
+</messagebox>
+</language>

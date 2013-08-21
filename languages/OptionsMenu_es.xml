@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<language lan="es">
+<menu>
+	<option id="title" value="Menu de opciones de MoleFusion"/>
+	<option id="name" value="Nombre Jugador"/>
+	<option id="language" value="Cambiar Lenguaje"/>
+	<option id="returnMain" value="Volver al Menu Principal"/>	
+</menu>
+</language>

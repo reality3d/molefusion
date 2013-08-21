@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<language lan="en">
+<menu>
+	<option id="title" value="MoleFusion Main Menu"/>
+	<option id="start" value="Start"/>
+	<option id="options" value="Options"/>
+	<option id="highscores" value="HighScores"/>
+	<option id="help" value="Help"/>	
+	<option id="quit" value="Quit"/>	
+</menu>
+</language>

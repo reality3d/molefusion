@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<language lan="en">
+<menu>
+	<option id="title" value="MoleFusion HighScores"/>
+	<option id="name" value="Name"/>
+	<option id="points" value="Score"/>	
+	<option id="returnMain" value="Return to Main Menu"/>	
+</menu>
+</language>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<language lan="eu">
+<menu>
+	<option id="title" value="MoleFusion Laguntza Menua"/>
+	<img id="help" value="sprites/help.png"/>
+	<option id="returnMain" value="Menu Nagusira bueltatu"/>	
+</menu>
+</language>

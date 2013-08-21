@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<language lan="en">
+<menu>
+	<option id="title" value="MoleFusion Help Menu"/>
+	<img id="help" value="sprites/help.png"/>
+	<option id="returnMain" value="Return to Main Menu"/>	
+</menu>
+</language>

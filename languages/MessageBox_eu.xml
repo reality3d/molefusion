@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<language lan="eu">
+<messagebox>
+	<option id="level" value="maila"/>
+	<option id="finish" value="maila bukatuta"/>
+	<option id="points" value="denbora bonifikazioa"/>
+	<option id="over" value="joko amaiera"/>
+</messagebox>
+</language>

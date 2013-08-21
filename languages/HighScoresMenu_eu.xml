@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<language lan="eu">
+<menu>
+	<option id="title" value="MoleFusion Puntuazioak"/>
+	<option id="name" value="Izena"/>
+	<option id="points" value="Puntuazioa"/>
+	<option id="returnMain" value="Menu Nagusira bueltatu"/>	
+</menu>
+</language>
